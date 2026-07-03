@@ -45,8 +45,11 @@ By isolating the $p$-value of the intercept ($\alpha$), the framework programmat
 
 ## Simulated Performance Metrics (2014 - 2024)
 *Validated on an S&P 500 ETF universe with 10 bps slippage applied.*
-* **Annualized Return:** X.X%
-* **Sharpe Ratio:** 1.84
-* **Sortino Ratio:** 2.15
-* **Max Drawdown:** -8.4%
-* **Information Ratio:** X.X
+
+* **Initial Capital:** $100,000.00
+* **Final Capital:** $77,001.12
+* **Annualized Return:** -2.58%
+* **Sharpe Ratio:** -0.30
+* **Sortino Ratio:** -0.38
+* **Max Drawdown:** -28.25%
+* **Calmar Ratio:** -0.09
