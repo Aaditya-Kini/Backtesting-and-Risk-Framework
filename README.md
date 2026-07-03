@@ -47,7 +47,7 @@ By isolating the $p$-value of the intercept ($\alpha$), the framework programmat
 *Validated on an S&P 500 ETF universe with 10 bps slippage applied.*
 
 * **Initial Capital:** $100,000.00
-* **Final Capital:** $77,001.12
+* **Final Capital:** $77,001.14
 * **Annualized Return:** -2.58%
 * **Sharpe Ratio:** -0.30
 * **Sortino Ratio:** -0.38
